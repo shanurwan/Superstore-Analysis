@@ -1,7 +1,7 @@
 # Superstore Revenue Management Analysis
 
 <div align="center">
-  <img src="[URL_TO_YOUR_IMAGE](https://github.com/shanurwan/Superstore-Analysis/blob/main/images/intro.jpg)" alt="Description of Image" />
+  <img src="[https://github.com/shanurwan/Superstore-Analysis/blob/main/images/intro.jpg]" alt="Description of Image" />
 </div>
 
 ## About
