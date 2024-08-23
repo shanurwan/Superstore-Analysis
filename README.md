@@ -14,14 +14,17 @@ By the end of this project, we will be able to answer:
   
 ## Key Finding
 1. Within each product subcategory, there is a particular item tends to be bought together more often than the rest.
-2.
+2. The Technology category, including its subcategory of copiers, contributes the most to total revenue. 
 
 ## Recommendation
-1.Recommending to customers the complementary products that are frequently purchased together with a specific item can potentially increase revenue.
+1. Recommending to customers the complementary products that are frequently purchased together with a specific item can potentially increase revenue.
+2. Boosting the Promotion of technology category especially copiers
+3. Tables, bookcases, and supplies need to be evaluated for pricing, inventory optimization, and potential product rationalization to discontinue underperforming items.
 
 
-## Approach
+## Methodology
 1. Data Cleaning
 2. Market Basket Analysis
+3. Product Optimization and Promotion
 
  
