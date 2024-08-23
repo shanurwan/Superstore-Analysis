@@ -1,16 +1,19 @@
 # Superstore Revenue Management Analysis
 
-## About
-This project aims to examine e-commerce data to discover actionable insights that can boost revenue. The data was sourced from a Kaggle dataset.By the end of this project, we will be able to answer:
+## Data Overview
+This e-commerce dataset offers valuable insights that can inform our revenue management strategies, optimize operations, drive sales, and improve customer satisfaction. Below is a brief overview of the dataset's key features:
+
+## Objective
+By the end of this project, we will be able to answer:
 - Which other products should we suggest to customers when they purchase a specific item?
 - Which product categories and subcategories generate the most revenue?
 - What is the effect of discounts on revenue?
 - When is the optimal timing for limited-time promotions?
-- 
-## Objective
-
+- What is the effect of seasonality on revenue?
+- What is the revenue contribution by customer segment?
+  
 ## Key Finding
-1. Within each product category, there is a particular item tends to be bought together more often than the rest.
+1. Within each product subcategory, there is a particular item tends to be bought together more often than the rest.
 2.
 
 ## Recommendation
@@ -18,8 +21,7 @@ This project aims to examine e-commerce data to discover actionable insights tha
 
 
 ## Approach
-1. The initial step involve performing data cleaning on the dataset.
-2. To list out the pair of product most frequently bought together i use market basket analysis. For this part I use common table expression to avoid complex queries (multiple layer of subqueries) by breaking them into simpler parts.
-3. 5
+1. Data Cleaning
+2. Market Basket Analysis
 
  
