@@ -1,4 +1,4 @@
-# Superstore Platform User Growth Analysis
+# Superstore Platform Growth Analysis
 ## About
 
 ## Objective
