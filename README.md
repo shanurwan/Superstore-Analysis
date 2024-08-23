@@ -4,7 +4,7 @@
 ## Objective
 
 ## Key Finding
-1. Within each product category, a particular item tends to be bought together more often than the rest.
+1. Within each product category, there is a particular item tends to be bought together more often than the rest.
 2.
 
 ## Recommendation
@@ -12,7 +12,8 @@
 
 
 ## Approach
-1. Data Prepearation
-2. To list out the pair of product most frequently bought together i use market basket analysis. For this part I use common table expression to avoid complex queries by breaking them into simpler parts.
+1. The initial step involve performing data cleaning on the dataset.
+2. To list out the pair of product most frequently bought together i use market basket analysis. For this part I use common table expression to avoid complex queries (multiple layer of subqueries) by breaking them into simpler parts.
+3. 5
 
  
