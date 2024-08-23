@@ -1,9 +1,5 @@
 # Superstore Revenue Management Analysis
 
-<div align="center">
-  <img src="[https://github.com/shanurwan/Superstore-Analysis/blob/main/images/intro.jpg]" alt="Description of Image" />
-</div>
-
 ## About
 This project aims to examine e-commerce data to discover actionable insights that can boost revenue. The data was sourced from a Kaggle dataset.By the end of this project, we will be able to answer:
 - Which other products should we suggest to customers when they purchase a specific item?
