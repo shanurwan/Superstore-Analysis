@@ -1,5 +1,7 @@
 # Superstore Revenue Management Analysis
 
+![ecommerce](https://github.com/shanurwan/Superstore-Analysis/blob/main/images/39e3e8d1a9875156a3175e85673007ac.jpg)
+
 ## Data Overview
 This e-commerce dataset offers valuable insights that can inform our revenue management strategies, optimize operations, drive sales, and improve customer satisfaction. Below is a brief overview of the dataset's key features:
 
