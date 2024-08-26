@@ -26,5 +26,6 @@ By the end of this project, we will be able to answer:
 1. Data Cleaning
 2. Market Basket Analysis
 3. Product Optimization and Promotion
+4. Analyzing Business Pattern and Seasonality 
 
  
