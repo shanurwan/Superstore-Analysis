@@ -24,8 +24,10 @@ By the end of this project, we will be able to answer:
 
 ## Methodology
 1. Data Cleaning
+   - Preprocessing before importing into sql 
 2. Market Basket Analysis
 3. Product Optimization and Promotion
-4. Analyzing Business Pattern and Seasonality 
+4. Analyzing Business Pattern and Seasonality
+5. Customer Segmentation (RFM Analysis)
 
  
